@@ -1,0 +1,12 @@
+<header>
+
+<a href="{{ site.basename }}"><img class="nav-logo" src="{{ site.logo }}" /></a>
+
+<nav>
+  {% for link in site.nav %}
+  <a class="" href="{{ link.url }}">{{ link.name }}</a>
+  {% endfor %}
+</nav>
+
+
+</header>

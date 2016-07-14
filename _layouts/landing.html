@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <section class="splash">
+      <h2>{{page.statement}}</h2>
+      <img alt="matrimoni francescano" src="{{page.image}}" />
+    </section>
+
+    <section class="container">
+      <div class="row">
+        <div class="column">
+          {{ content }}
+        </div>
+      </div>
+    </section>
+
+    {% include inquire.html %}
+
+    {% include footer.html %}
+
+  </body>
+
+  {% include foot.html %}
+
+</html>

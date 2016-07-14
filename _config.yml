@@ -1,0 +1,50 @@
+---
+
+# Navigation links
+nav:
+  # - name: "Gallerie"
+  #   url: "/gallerie"
+
+  # - name: "Chi siamo"
+  #   url: "/chi-siamo"
+
+
+# Site settings
+title: 5p2p | weddings
+email: weddings@5p2p.it
+description: "Fotografia e Video per Matrimoni da Dio"
+
+footer: >
+  <a href="http://5p2p.it">5pani2pesci per aiutarti ad 
+  incontrare l'Amore di Dio, quello che ti cambia la vita!</a>
+
+url: "http://weddings.5p2p.it"
+favicon: /assets/images/logo/5p2p-logo.png
+logo: /assets/images/logo/5p2p-logo.png
+
+# Build settings
+basename: "/"
+assets: "/assets"
+markdown: kramdown
+permalink: /:year/:title
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:title
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: "gallery"
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: "page"
