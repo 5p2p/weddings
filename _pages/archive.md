@@ -1,5 +1,5 @@
 ---
-permalink: /secret/all
+permalink: /secret/archive
 ---
 
 # Gallerie

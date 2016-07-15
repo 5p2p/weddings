@@ -8,8 +8,9 @@
     {% include header.html %}
 
     <section class="splash">
-      <h2>{{page.statement}}</h2>
-      <img alt="matrimonio francescano" src="{{page.image}}" />
+    {% if page.image %}
+      <img alt="matrimonio francescano" src="{{page.folder}}/{{page.image}}" />
+    {% endif %}
     </section>
 
     <section class="container">
@@ -17,9 +18,17 @@
     <div id="gallery">  
       <h1>{{page.title}}</h1>
       <h2>{{page.location}}</h2>
+
+      {{content}}
+
       <hr>
 
-      {{ content }}
+      <p>
+      {% for image in page.gallery %}
+      <img class="lazy-load" data-src="{{page.folder}}/{{image}}" src="{{page.lazygif}}" />
+      <noscript><img src="{{page.folder}}/{{image}}" /></noscript>
+      {% endfor %}
+      </p>
 
     </div>
     </section>
@@ -28,8 +37,7 @@
 
     {% include footer.html %}
 
+    {% include foot.html %}
+    
   </body>
-
-  {% include foot.html %}
-
 </html>

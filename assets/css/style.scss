@@ -119,12 +119,15 @@ nav {
 
 #gallery {
   padding-bottom: 2rem;
+  p{
+    max-width: 90rem;
+  }
   h2 {
     margin-top: 0;
     font-size: 2rem;
     text-transform: uppercase;
   }
-  img{
+  img {
     width: 100%;
   }
 }
@@ -161,3 +164,15 @@ footer {
 .clearfix {
   overflow: auto;
 }
+
+.lazy-load, .lazy-loaded {
+  width: 10%;
+  -webkit-transition: opacity 0.3s;
+  -moz-transition: opacity 0.3s;
+  -ms-transition: opacity 0.3s;
+  -o-transition: opacity 0.3s;
+  transition: opacity 0.3s;
+  opacity: 0;
+}
+
+.lazy-loaded { opacity: 1; }
