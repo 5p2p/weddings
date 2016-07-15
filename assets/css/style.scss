@@ -12,7 +12,7 @@ $light-gray: #ecf0f1;
 $nav-height: 4rem;
 
 // footer
-$footer-height: 10rem;
+$footer-height: 20rem;
 
 
 html {
@@ -77,17 +77,27 @@ nav {
   }
 }
 .nav-logo {
+  h1 {
+    font-weight: 700;
+    font-size: 1.6rem;
+    display: inline;
+  }
   position: absolute;
   top: 0;
-  height: $nav-height*1.6;
   z-index: 100;
+  line-height: $nav-height*1.2;
+  img {
+    float: left;
+    height: $nav-height*1.6;
+  }
 }
 
 .splash{
   float: left;
   position: relative;
   width: 100%;
-  overflow: hidden;
+  margin-top: $nav-height;
+  // overflow: hidden;
   margin-bottom: 3rem;
 
   h2 {
@@ -107,11 +117,30 @@ nav {
   }
 }
 
+#gallery {
+  padding-bottom: 2rem;
+  h2 {
+    margin-top: 0;
+    font-size: 2rem;
+    text-transform: uppercase;
+  }
+  img{
+    width: 100%;
+  }
+}
 .page {
   h1 {padding-top:6rem;}
 }
 
 footer {
+  img {
+    width: 6rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -4rem;
+    margin-bottom: 1rem;
+  }
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -121,7 +150,7 @@ footer {
   padding-top: 2rem;
   p {
     font-size: 1.2rem;
-    line-height: 6rem;
+    // line-height: 6rem;
   }
 }
 

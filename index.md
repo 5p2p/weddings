@@ -4,13 +4,6 @@ title: Fotografia e Video per Matrimoni da Dio
 image: /assets/images/general/landing.jpg
 ---
 
-# Fotografia e Video per Matrimoni da Dio
-
----
-
-<!-- ## Al centro c'è il vostro sacramento, noi vi facciamo solo le foto -->
-
-### Al centro c'è il vostro sacramento, noi vi facciamo solo le foto
 
 <!-- ## Highlights
 
@@ -20,15 +13,19 @@ image: /assets/images/general/landing.jpg
 {% endif %}
 {% endfor %}
  -->
+<!-- ## Al centro c'è il vostro sacramento, noi vi facciamo solo le foto -->
 
-Ci appassiona il contatto con le persone che si avvicinano ad un'avventura così grande e coinvolgente come il matrimonio. Il nostro servizio è <b>non-profit</b>, ovvero i proventi sono utilizzati per finanziare la nostra attività di evangelizzazione a favore della famiglia e della vita.
-        
----
 
 ### Conosci già 5pani2pesci?
 
 <b>5pani2pesci</b> è un <a href="http://5p2p.it">progetto di evangelizzazione</a>  per scoprire <b>l'amore vero,</b> quello che ti cambia la vita. Tutto il ricavato ottenuto dai servizi fotografici è finalizzato per questa attività.
 
+---
+
+### Al centro c'è il vostro sacramento, noi vi facciamo solo le foto
+
+Ci appassiona il contatto con le persone che si avvicinano ad un'avventura così grande e coinvolgente come il matrimonio. Il nostro servizio è <b>non-profit</b>, ovvero i proventi sono utilizzati per finanziare la nostra attività di evangelizzazione a favore della famiglia e della vita.
+        
 ---
 
 ### Scrivici

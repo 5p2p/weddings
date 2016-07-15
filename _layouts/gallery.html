@@ -7,9 +7,24 @@
 
     {% include header.html %}
 
-    <div class="container">
+    <section class="splash">
+      <h2>{{page.statement}}</h2>
+      <img alt="matrimonio francescano" src="{{page.image}}" />
+    </section>
+
+    <section class="container">
+
+    <div id="gallery">  
+      <h1>{{page.title}}</h1>
+      <h2>{{page.location}}</h2>
+      <hr>
+
       {{ content }}
+
     </div>
+    </section>
+
+    {% include inquire.html %}
 
     {% include footer.html %}
 

@@ -2,6 +2,9 @@
 
 # Navigation links
 nav:
+  # - name: "5pani2pesci"
+  #   url: "/"
+
   # - name: "Gallerie"
   #   url: "/gallerie"
 
@@ -15,8 +18,11 @@ email: weddings@5p2p.it
 description: "Fotografia e Video per Matrimoni da Dio"
 
 footer: >
-  <a href="http://5p2p.it">5pani2pesci per aiutarti ad 
-  incontrare l'Amore di Dio, quello che ti cambia la vita!</a>
+  Al centro c'è il vostro sacramento, noi vi facciamo solo le foto. 
+  <b>5pani2pesci</b> è un <a href="http://5p2p.it">progetto di evangelizzazione</a> 
+  per scoprire <b>l'amore vero,</b> quello che ti cambia la vita. 
+  Tutto il ricavato ottenuto dai servizi fotografici è finalizzato 
+  per questa attività. <a href="/">Per maggiori informazioni.</a> 
 
 url: "http://weddings.5p2p.it"
 favicon: /assets/images/logo/5p2p-logo.png
