@@ -28,6 +28,9 @@ url: "http://weddings.5p2p.it"
 favicon: /assets/images/logo/5p2p-logo.png
 logo: /assets/images/logo/5p2p-logo.png
 
+google:
+  analytics: UA-39520577-1
+
 # Build settings
 basename: "/"
 assets: "/assets"
