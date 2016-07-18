@@ -25,7 +25,7 @@
 
       <p>
       {% for image in page.gallery %}
-      <img class="lazy-load" data-src="{{page.folder}}/{{image}}" src="{{page.lazygif}}" />
+      <img class="lazy-load" data-src="{{page.folder}}/{{image}}" src="{{site.lazygif}}" />
       <noscript><img src="{{page.folder}}/{{image}}" /></noscript>
       {% endfor %}
       </p>

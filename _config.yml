@@ -36,6 +36,7 @@ basename: "/"
 assets: "/assets"
 markdown: kramdown
 permalink: /:title
+lazygif: "/assets/images/general/loading.gif"
 
 # Collections
 collections:
