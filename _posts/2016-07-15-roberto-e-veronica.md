@@ -1,4 +1,5 @@
 ---
+permalink: 2016/roberto-e-veronica
 title: Roberto e Veronica
 location: Assisi
 highlight: false
