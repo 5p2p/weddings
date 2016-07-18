@@ -35,7 +35,7 @@ google:
 basename: "/"
 assets: "/assets"
 markdown: kramdown
-permalink: /:year/:title
+permalink: /:title
 
 # Collections
 collections:
