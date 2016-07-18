@@ -39,7 +39,7 @@ h2 {
 }
 
 p {
-  margin: 0 auto;
+  margin: 2rem auto;
   max-width: 60rem;
 }
 
@@ -176,3 +176,15 @@ footer {
 }
 
 .lazy-loaded { opacity: 1; }
+
+/* Larger than mobile screen */
+@media (min-width: 40.0rem) {
+  p {font-size: 2rem; margin: 3rem auto;}
+}
+
+/* Larger than tablet screen */
+@media (min-width: 80.0rem) { 
+}
+
+/* Larger than desktop screen */
+@media (min-width: 120.0rem) {}
