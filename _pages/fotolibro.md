@@ -1,6 +1,6 @@
 ---
 title: Il Fotolibro
-permalink: fotolibro/
+
 layout: gallery # MUST be PAGE!
 image: copertina.jpg
 folder: "/catalogs/fotolibro"
