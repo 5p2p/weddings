@@ -2,7 +2,7 @@
 title: Lorenzo e Adriana
 location: Andria
 highlight: false
-image: web-1.jpg
+image: header.jpg
 lazygif: "/assets/images/general/loading.gif"
 folder: "/catalogs/2016/0624 | Lorenzo e Adriana | Andria"
 gallery:    
