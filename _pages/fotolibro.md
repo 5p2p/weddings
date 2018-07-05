@@ -16,7 +16,7 @@ Il fotolibro è rilegato con tecnica **flat**, rendendo possibile un'apertura de
 
 ### Formato sposi
 
-Per gli sposi il fotolibro viene realizzato in grande formato **30x30 cm**, dove ogni pagina contiene tendenzialmente da una a quattro foto. La maggior parte delle pagine contengono una foto a tutta pagina, mentre foto di dettagli e ambiente vengono resi con pagine da due o quattro foto. La tecnica flat permette permettendo la stampa di una stessa immagine su tutta la superficie del fotolibro aperta, offre la possibilità di immagini fino ad una larghezza massima di 60cm.
+Per gli sposi il fotolibro viene realizzato in grande formato **28x28 cm**, dove ogni pagina contiene tendenzialmente da una a quattro foto. La maggior parte delle pagine contengono una foto a tutta pagina, mentre foto di dettagli e ambiente vengono resi con pagine da due o quattro foto. La tecnica flat permette permettendo la stampa di una stessa immagine su tutta la superficie del fotolibro aperta, offre la possibilità di immagini fino ad una larghezza massima di 58cm.
 
 ### Formato genitori o testimoni
 
@@ -24,7 +24,7 @@ Lo stesso tipo di fotolibro può essere realizzato in formato ridotto a **18x18 
 
 
 ![](/catalogs/fotolibro/fotolibro-piccolo.jpg)
-*I due formati del fotolibro: 30x30 cm per gli sposi e 18x18 cm per i genitori*
+*I due formati del fotolibro: 28x28 cm per gli sposi e 18x18 cm per i genitori*
 
 
 ![](/catalogs/fotolibro/bordo.jpg)
