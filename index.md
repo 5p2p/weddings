@@ -47,12 +47,18 @@ a.btn {
 }
 </style>
 
-<p style='margin-bottom: 4rem'>Per saperne di più mandaci un messaggio includendo il tuo nome, la <b>data del matrimonio</b> ed un <b>numero di telefono</b>. Ti richiameremo per fornirti tutti i dettagli sul nostro servizio. Inserisci i tuoi dati seguendo il link qui sotto, grazie 😘 </p>
+<p style='margin-bottom: 4rem'>Per saperne di più mandaci un messaggio <i>Whatsapp</i> includendo i vostri <b>nomi</b>, la <b>data del matrimonio</b> ed il <b>luogo</b>. Ti ricontatteremo per fornirti tutti i dettagli sul nostro servizio 😘 </p>
 
-<div class='w100'>
-    <a class='btn' href='http://bit.ly/new-lead-5p2p'>SCRIVICI</a>
-</div>
+<p style='text-align: center'>
+    ✏️  &nbsp; <b>351 923 00 25</b> &nbsp; 
+    <span style="font-size: 1.2rem">(solo Whatsapp)</span>
+</p> 
 
+<p>A presto!</p>
+<p></p>
+<p></p>
+
+<!--
 ---
 
 ### Bomboniere e partecipazioni solidali
@@ -60,3 +66,4 @@ a.btn {
 In collaborazione con il convento S. Antonio dei frati minori a Milano nasce una nuova iniziativa per coinvolgere gli amici del centro d'accoglienza.
 
 <div class="padding center big">bomboniere@5p2p.it</div>
+-->
